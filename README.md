@@ -1,4 +1,4 @@
-# Blog Platform with Comments
+# Blog Platform
 
 ## Overview
 
